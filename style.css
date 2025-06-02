@@ -1,0 +1,10 @@
+body (
+     margin-left: 300px;
+     background-color: red;
+)
+
+h1 (
+   color: white;
+   font-family:"Open Sans"
+   font-size:60px
+)
